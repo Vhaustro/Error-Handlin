@@ -1,2 +1,2 @@
 # Error-Handlin
-Another insight in the Playlist.
+Another insight from the playlist.
